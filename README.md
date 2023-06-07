@@ -1,1 +1,1 @@
-# s-chistogo-lista
+# С чистого листа
